@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Farid's github stats](github-readme-stats.faridsaud93.vercel.app/api?username=faridsaud)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.faridsaud93.vercel.app/api?username=faridsaud&count_private=true&include_all_commits=true&hide_total_stars=true&hide_total_issues=true)
 
